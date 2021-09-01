@@ -38,5 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
 # Charles' First CS193 Homework
-- The class only meets once a week
+- The class only meets in-person once a week
 - The assignments always provide extra understanding for CS180 lectures
+- The class feels helpful
